@@ -6,7 +6,7 @@
 
     ### iOS
       
-    1. Run `pod install` from `react-native-assignment/ios` folder
+    1. Run `cd ios` and `pod install`
     2. Start XCode and open generated `rnAssignment.xcworkspace`
     
     ### Android
