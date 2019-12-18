@@ -42,7 +42,8 @@ const styles = {
     },
     txtIns: {
         fontWeight: 'bold',
-        fontSize: 18
+        fontSize: 18,
+        textAlign: 'center'
     },
     txtResult: {
         fontWeight: '500',
