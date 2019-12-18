@@ -17,7 +17,7 @@ const styles = {
     txtInput: {
         height: 30,
         width: 200,
-        borderColor: 'gray',
+        borderColor: 'grey',
         borderWidth: 1
     },
     inputContainer: {
